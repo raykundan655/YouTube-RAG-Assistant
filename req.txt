@@ -1,0 +1,64 @@
+# LangChain Core
+langchain==0.3.27
+langchain-core==0.3.74
+
+# Community package (VectorStores, Document Loaders, Retrievers, etc.)
+langchain-community==0.3.27
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+# Google Vertex AI Integration
+# Some versions of Ragas internally import VertexAI classes.
+langchain-google-vertexai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# HuggingFaceEmbeddings internally depends on sentence-transformers
+sentence-transformers
+
+# Required by transformers pipeline for faster inference and device management
+torch
+accelerate
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Package used to fetch YouTube transcripts
+youtube-transcript-api
+
+# Package used to extract YouTube video id and metadata
+pytube
+
+# Chroma Vector Database used to store document embeddings
+chromadb
+
+# FAISS Vector Database
+# langchain_community.vectorstores.FAISS is a wrapper that internally uses faiss-cpu
+faiss-cpu
+
+# Build interactive web applications
+streamlit
+
+
+#for evalution i'm using deepeval 
+deepeval
+
+
+# Python Interpreter (Reference)
+# D:\Programming\Python\LangChain\myenv\Scripts\python.exe
