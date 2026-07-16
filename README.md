@@ -89,7 +89,7 @@ LangChain/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/YouTube-RAG-Assistant.git
+git clone https://github.com/raykundan655/YouTube-RAG-Assistant.git
 cd YouTube-RAG-Assistant
 ```
 
