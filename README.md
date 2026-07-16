@@ -188,5 +188,5 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>YouTube RAG Assistant</strong>
+  Made with ❤️  by <strong>YouTube RAG Assistant</strong>
 </p>
